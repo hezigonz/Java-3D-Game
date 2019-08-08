@@ -64,6 +64,7 @@ public class Game extends Canvas implements Runnable {
 		g.fillRect(0, 0, getWidth(), getHeight());
 		g.dispose();
 		bs.show();
+		System.out.println("THIS IS INSANE!");
 	}
 
 	public static void main(String[] args) {
