@@ -1,6 +1,6 @@
 # Java-3D-Game
 
-This month we will be developing a 3D Low Res. 16 by 9 Java Game!
+This month we will be developing a 3D Low Res. 16 by 9 Ratio Java Game!
 
 # More info
 
